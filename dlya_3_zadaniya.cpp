@@ -1,0 +1,1 @@
+extern const int a = 10, b = 9, c = 8, d = 7;
